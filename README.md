@@ -18,6 +18,10 @@ Bem-vindo à central oficial de downloads. Para jogar no servidor, você precisa
 4. Inicie o jogo e divirta-se!
 
 ### Uso dos ativos listados
-* o uso dos arquivos listados são exclusivamente para a expêriencia no servidor Nova Fênix, o uso fora do servidor poderá não funcionar corretamente
+> **Observação:** Os ativos listados acima foram projetados para rodar no client com os mods privados instalados no servidor, o uso em ambiente externo é extritamente desmotivado.
 
 > **Dica:** Se você encontrar qualquer erro de "Missing Dependency", verifique se baixou todos os arquivos listados.
+
+### Sumário
+> Resumos de versões
+> [FractalStellaris-1.0.0-SNAPSHOT](./resumes/fractalstellaris/resumo-1.0.0-SNAPSHOT.md)
